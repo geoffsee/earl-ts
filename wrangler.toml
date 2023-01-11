@@ -1,0 +1,7 @@
+name = "earl"
+main = "src/index.ts"
+compatibility_date = "2023-01-09"
+
+kv_namespaces = [
+    { binding = "earl-earl", id = "86058f5703594eb0b2d586a8683dfa75", preview_id="8fae598638d4421f9f99205dcb3b628a"},
+]
